@@ -1,0 +1,41 @@
+*{
+    border: 0;
+    margin: 0.2;
+    padding: 0;
+}
+
+body{
+    Margin: auto;
+    margin-top: 8.875px;
+    max-width: 880px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2pt;
+}
+
+header{
+    display: block;
+    text-align: Center;
+    text-decoration: underline;
+    font-size: 100px;
+    border-style: solid;
+    border-color:black;
+    border-width: 2pt;
+}
+
+h1{
+    color: gray;
+    font-style: italic;
+    font-weight: bold
+}
+
+h3{
+    color:grey;
+    font-style:italic;
+}
+
+p{
+    display: inline-block;
+    columns: 2;
+    width: 60%;
+}
